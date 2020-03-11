@@ -1,10 +1,14 @@
-[
-    {
-        label: 'Center for Disease Control COVID-19',
-        link: 'https://www.cdc.gov/coronavirus/2019-ncov/about/index.html'
-    },
-    {
-        label: 'Q&A on coronaviruses (COVID-19)',
-        link: 'https://www.who.int/news-room/q-a-detail/q-a-coronaviruses'
-    },
-]
+{
+   "headlines":[
+      {
+         "label":"Illinois Declares Disaster Proclamation Over Coronavirus Outbreak",
+         "link":"https://www.nbcchicago.com/news/local/illinois-declares-disaster-proclamation-over-coronavirus-outbreak/2233798/",
+         "date":"3/9/20"
+      },
+      {
+         "label":"Coronavirus is so contagious it warrants two-week quarantine",
+         "link":"https://www.chicagotribune.com/coronavirus/bs-hs-coronavirus-incubation-period-20200309-7zxjr4t5qzez3pumbahgwxoksq-story.html",
+         "date":"3/9/20"
+      }
+   ]
+}
