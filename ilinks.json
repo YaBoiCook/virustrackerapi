@@ -1,0 +1,10 @@
+[
+    {
+        label: 'Center for Disease Control COVID-19',
+        link: 'https://www.cdc.gov/coronavirus/2019-ncov/about/index.html'
+    },
+    {
+        label: 'Q&A on coronaviruses (COVID-19)',
+        link: 'https://www.who.int/news-room/q-a-detail/q-a-coronaviruses'
+    },
+]
