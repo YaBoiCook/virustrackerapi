@@ -2,11 +2,11 @@
    "ilinks":[
       {
          "label":"(CDC) About Coronavirus Disease (COVID-19)",
-         "link":"https://www.cdc.gov/coronavirus/2019-ncov/about/index.html",
+         "link":"https://www.cdc.gov/coronavirus/2019-ncov/about/index.html"
       },
       {
          "label":"(WHO) Coronavirus disease (COVID-19) outbreak",
-         "link":"https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+         "link":"https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
       }
    ]
 }
