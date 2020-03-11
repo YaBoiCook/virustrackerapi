@@ -1,14 +1,14 @@
 {
    "headlines":[
       {
-         "label":"The Facts on Coronavirus Testing",
-         "link":"https://www.factcheck.org/2020/03/the-facts-on-coronavirus-testing/",
-         "date":"3/10/20"
-      },
-      {
          "label":"Illinois Declares Disaster Proclamation Over Coronavirus Outbreak",
          "link":"https://www.nbcchicago.com/news/local/illinois-declares-disaster-proclamation-over-coronavirus-outbreak/2233798/",
          "date":"3/9/20"
+      },
+      {
+         "label":"The Facts on Coronavirus Testing",
+         "link":"https://www.factcheck.org/2020/03/the-facts-on-coronavirus-testing/",
+         "date":"3/10/20"
       },
       {
          "label":"Coronavirus is so contagious it warrants two-week quarantine",
