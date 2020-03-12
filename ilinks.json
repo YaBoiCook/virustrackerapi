@@ -11,6 +11,10 @@
       {
          "label":"Illinois Department of Health Coronavirus page",
          "link":"http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus"
+      },
+      {
+         "label":"COVID-19 Data Visualization",
+         "link":"https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/"
       }
    ]
 }
