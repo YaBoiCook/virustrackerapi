@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"WHO declares COVID-19 as a pandemic",
+         "link":"https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020",
+         "date":"3/11/20"
+      },
+      {
          "label":"Chicago's St. Patrick's Day parades postponed",
          "link":"https://www.fox32chicago.com/news/chicagos-st-patricks-day-parades-postponed-amid-coronavirus-concerns",
          "date":"3/11/20"
