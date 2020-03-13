@@ -1,6 +1,21 @@
 {
    "headlines":[
       {
+         "label":"Pritzker Recommends Ban on Gatherings of 250 People or More",
+         "link":"https://www.nbcchicago.com/news/local/pritzker-announces-ban-on-large-gatherings-amid-coronavirus-outbreak/2235948/",
+         "date":"3/12/20"
+      },
+      {
+         "label":"Chicago-area coronavirus closures, cancellations: Schools, festivals, government and more",
+         "link":"https://wgntv.com/news/coronavirus/the-latest-chicago-area-closures-due-to-novel-coronavirus-and-covid-19-from-schools-to-festivals/",
+         "date":"3/12/20"
+      },
+      {
+         "label":"Q&A on Animals and the coronavirus",
+         "link":"https://www.cdc.gov/coronavirus/2019-ncov/faq.html?setLocale=en-US&utm_source=20200311&utm_medium=email&utm_campaign=CODERED_Coronavirus_USPR_v1_multispecies&em=MTk2MGJpcmRAZ21haWwuY29t#animals",
+         "date":"3/12/20"
+      },
+      {
          "label":"WHO declares COVID-19 as a pandemic",
          "link":"https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020",
          "date":"3/11/20"
