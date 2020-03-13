@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"United States declares national emergency",
+         "link":"https://www.cbsnews.com/live-updates/coronavirus-updates-cases-fears-deaths-us-latest-2020-03-13/",
+         "date":"3/13/20"
+      },
+      {
          "label":"Pritzker Recommends Ban on Gatherings of 250 People or More",
          "link":"https://www.nbcchicago.com/news/local/pritzker-announces-ban-on-large-gatherings-amid-coronavirus-outbreak/2235948/",
          "date":"3/12/20"
