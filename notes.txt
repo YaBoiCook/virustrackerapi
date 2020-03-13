@@ -1,2 +1,1 @@
 Note: The dip in the US data is due to some state government websites not currently reporting data. Estimating the current reported US cases to be closer to 2,000.
-TESTER
