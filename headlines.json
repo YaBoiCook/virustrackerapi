@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"All Illinois Schools to Close Due to Coronavirus",
+         "link":"https://www.nbcchicago.com/news/local/all-illinois-schools-to-close-over-coronavirus-governor-announces/2236775/",
+         "date":"3/13/20"
+      },
+      {
          "label":"United States declares national emergency",
          "link":"https://www.cbsnews.com/live-updates/coronavirus-updates-cases-fears-deaths-us-latest-2020-03-13/",
          "date":"3/13/20"
