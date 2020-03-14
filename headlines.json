@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"COVID-19 testing information according to state health departments",
+         "link":"https://www.nbcnews.com/health/health-news/coronavirus-testing-information-covid-19-tests-according-state-health-departments-n1158041",
+         "date":"3/14/20"
+      },
+      {
          "label":"All Illinois Schools to Close Due to Coronavirus",
          "link":"https://www.nbcchicago.com/news/local/all-illinois-schools-to-close-over-coronavirus-governor-announces/2236775/",
          "date":"3/13/20"
