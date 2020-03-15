@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"How to flatten the outbreak curve",
+         "link":"https://www.washingtonpost.com/graphics/2020/world/corona-simulator/",
+         "date":"3/15/20"
+      },
+      {
          "label":"COVID-19 testing information according to state health departments",
          "link":"https://www.nbcnews.com/health/health-news/coronavirus-testing-information-covid-19-tests-according-state-health-departments-n1158041",
          "date":"3/14/20"
