@@ -39,6 +39,11 @@
          "label":"Coronavirus is so contagious it warrants two-week quarantine",
          "link":"https://www.chicagotribune.com/coronavirus/bs-hs-coronavirus-incubation-period-20200309-7zxjr4t5qzez3pumbahgwxoksq-story.html",
          "date":"3/9/20"
-      }
+      },
+      {
+         "label":"California declares state of emergency",
+         "link":"https://www.gov.ca.gov/2020/03/04/governor-newsom-declares-state-of-emergency-to-help-state-prepare-for-broader-spread-of-covid-19/",
+         "date":"3/4/20"
+      },
    ]
 }
