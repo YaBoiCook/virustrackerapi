@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"All bars and resturants in Illinois will be closed through March",
+         "link":"https://www.chicago.gov/city/en/sites/covid-19/home.html",
+         "date":"3/15/20"
+      },
+      {
          "label":"Coronavirus screening causing major delays at O'Hare",
          "link":"https://chicago.suntimes.com/2020/3/14/21180161/coronavirus-ohare-customs-screening-hours-long-wait",
          "date":"3/15/20"
