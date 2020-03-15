@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"How to flatten the outbreak curve",
+         "link":"https://www.washingtonpost.com/graphics/2020/world/corona-simulator/",
+         "date":"3/15/20"
+      },
+      {
          "label":"COVID-19 testing information according to state health departments",
          "link":"https://www.nbcnews.com/health/health-news/coronavirus-testing-information-covid-19-tests-according-state-health-departments-n1158041",
          "date":"3/14/20"
@@ -41,14 +46,14 @@
          "date":"3/11/20"
       },
       {
-         "label":"Illinois Declares Disaster Proclamation Over Coronavirus Outbreak",
-         "link":"https://www.nbcchicago.com/news/local/illinois-declares-disaster-proclamation-over-coronavirus-outbreak/2233798/",
-         "date":"3/9/20"
-      },
-      {
          "label":"The Facts on Coronavirus Testing",
          "link":"https://www.factcheck.org/2020/03/the-facts-on-coronavirus-testing/",
          "date":"3/10/20"
+      },
+      {
+         "label":"Illinois Declares Disaster Proclamation Over Coronavirus Outbreak",
+         "link":"https://www.nbcchicago.com/news/local/illinois-declares-disaster-proclamation-over-coronavirus-outbreak/2233798/",
+         "date":"3/9/20"
       },
       {
          "label":"Coronavirus is so contagious it warrants two-week quarantine",
