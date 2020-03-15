@@ -1,0 +1,44 @@
+{
+   "headlines":[
+      {
+         "label":"COVID-19 testing information according to state health departments",
+         "link":"https://www.nbcnews.com/health/health-news/coronavirus-testing-information-covid-19-tests-according-state-health-departments-n1158041",
+         "date":"3/14/20"
+      },
+      {
+         "label":"Southern California school closures and cancellations",
+         "link":"https://abc7.com/education/see-list-of-socal-schools-canceling-classes-due-to-coronavirus/6001308/",
+         "date":"3/14/20"
+      },
+      {
+         "label":"United States declares national emergency",
+         "link":"https://www.cbsnews.com/live-updates/coronavirus-updates-cases-fears-deaths-us-latest-2020-03-13/",
+         "date":"3/13/20"
+      },
+      {
+         "label":"Disneyland to Close Until April",
+         "link":"https://la.eater.com/2020/3/12/21177477/disneyland-anaheim-closed-coronavirus-covid-19-spread-news",
+         "date":"3/12/20"
+      },
+      {
+         "label":"Q&A on animals and the coronavirus",
+         "link":"https://www.cdc.gov/coronavirus/2019-ncov/faq.html?setLocale=en-US&utm_source=20200311&utm_medium=email&utm_campaign=CODERED_Coronavirus_USPR_v1_multispecies&em=MTk2MGJpcmRAZ21haWwuY29t#animals",
+         "date":"3/12/20"
+      },
+      {
+         "label":"WHO declares COVID-19 as a pandemic",
+         "link":"https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020",
+         "date":"3/11/20"
+      },
+      {
+         "label":"The Facts on Coronavirus Testing",
+         "link":"https://www.factcheck.org/2020/03/the-facts-on-coronavirus-testing/",
+         "date":"3/10/20"
+      },
+      {
+         "label":"Coronavirus is so contagious it warrants two-week quarantine",
+         "link":"https://www.chicagotribune.com/coronavirus/bs-hs-coronavirus-incubation-period-20200309-7zxjr4t5qzez3pumbahgwxoksq-story.html",
+         "date":"3/9/20"
+      }
+   ]
+}
