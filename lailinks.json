@@ -1,0 +1,24 @@
+{
+   "ilinks":[
+      {
+         "label":"(CDC) About COVID-19 disease",
+         "link":"https://www.cdc.gov/coronavirus/2019-ncov/about/index.html"
+      },
+      {
+         "label":"(WHO) Coronavirus disease outbreak",
+         "link":"https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+      },
+      {
+         "label":"California Department of Health COVID-19 page",
+         "link":"https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx"
+      },
+      {
+         "label":"Los Angeles County COVID-19 page",
+         "link":"http://publichealth.lacounty.gov/media/Coronavirus/"
+      },
+      {
+         "label":"COVID-19 Data Visualization",
+         "link":"https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/"
+      }
+   ]
+}
