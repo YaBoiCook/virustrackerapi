@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"Travel bans for US and other countries",
+         "link":"https://www.cnn.com/travel/article/coronavirus-travel-bans/index.html",
+         "date":"3/16/20"
+      },
+      {
          "label":"CDC recommends cancelling gatherings over 50 people for the next 8 weeks",
          "link":"https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/mass-gatherings-ready-for-covid-19.html",
          "date":"3/15/20"
