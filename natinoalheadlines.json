@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"The President's coronavirus guidelines for America",
+         "link":"https://www.whitehouse.gov/wp-content/uploads/2020/03/03.16.20_coronavirus-guidance_8.5x11_315PM.pdf",
+         "date":"3/17/20"
+      },
+      {
          "label":"Travel bans for US and other countries",
          "link":"https://www.cnn.com/travel/article/coronavirus-travel-bans/index.html",
          "date":"3/16/20"
