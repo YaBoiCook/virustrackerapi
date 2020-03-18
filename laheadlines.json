@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"Millions are under ‘shelter in place’ orders in California",
+         "link":"https://www.nytimes.com/2020/03/18/world/coronavirus-news.html?action=click&pgtype=Article&state=default&module=styln-coronavirus&variant=show&region=TOP_BANNER&context=storyline_menu#link-1ee027d7",
+         "date":"3/18/20"
+      },
+      {
          "label":"Mayor orders closure of bars, gyms, theaters, and dine in restaurants",
          "link":"https://abc7.com/6016844/",
          "date":"3/16/20"
