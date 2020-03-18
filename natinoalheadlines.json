@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"Europe closes borders to visitors",
+         "link":"https://www.nytimes.com/2020/03/17/world/europe/EU-closes-borders-virus.html?auth=login-google",
+         "date":"3/18/20"
+      },
+      {
          "label":"The President's coronavirus guidelines for America",
          "link":"https://www.whitehouse.gov/wp-content/uploads/2020/03/03.16.20_coronavirus-guidance_8.5x11_315PM.pdf",
          "date":"3/17/20"
