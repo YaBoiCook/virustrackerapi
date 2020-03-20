@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"Illinois Governor Issues Stay-at-Home Order",
+         "link":"https://www.nbcchicago.com/news/local/illinois-governor-expected-to-issue-stay-at-home-order-sources/2241118/",
+         "date":"3/20/20"
+      },
+      {
          "label":"Illinois shopping hours for vulnerable populations",
          "link":"https://irma.org/covid-19-senior-shopping/",
          "date":"3/20/20"
