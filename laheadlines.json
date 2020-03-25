@@ -1,12 +1,17 @@
 {
    "headlines":[
       {
+         "label":"Mayor Garcetti likely to extend 'Safer at Home' end date",
+         "link":"https://www.businessinsider.com/covid-19-los-angeles-to-shelter-in-place-for-months-2020-3",
+         "date":"3/25/20"
+      },
+      {
          "label":"LA to close city parks, beaches, and trails",
          "link":"https://twitter.com/MayorOfLA/status/1241908563590578177?s=20",
          "date":"3/23/20"
       },
       {
-         "label":"Mayor Garcetti issues emergency Safer at Home order for LA",
+         "label":"Mayor Garcetti issues emergency 'Safer at Home' order for LA",
          "link":"https://corona-virus.la/faq",
          "date":"3/20/20"
       },
