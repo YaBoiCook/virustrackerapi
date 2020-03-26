@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"Chicago closes all lakefront parkland",
+         "link":"https://wgntv.com/news/coronavirus/city-of-chicago-shuts-down-lakefront-trail-amid-covid-19-outbreak/",
+         "date":"3/26/20"
+      },
+      {
          "label":"COVID-19 testing locations for Chicago area",
          "link":"https://chicago.suntimes.com/coronavirus/2020/3/24/21191831/map-heres-where-to-get-tested-coronavirus-chicago-illinois-covid-19",
          "date":"3/25/20"
