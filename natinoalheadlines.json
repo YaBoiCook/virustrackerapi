@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"CDC Issues Domestic Travel Advisory for New York, New Jersey, and Connecticut",
+         "link":"https://www.cdc.gov/media/releases/2020/s038-travel-advisory.html",
+         "date":"3/29/20"
+      },
+      {
          "label":"FAQ on the $2 trillion relief bill",
          "link":"https://www.nytimes.com/article/coronavirus-stimulus-package-questions-answers.html",
          "date":"3/27/20"
