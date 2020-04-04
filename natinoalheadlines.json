@@ -1,5 +1,10 @@
 {
-   "headlines":[
+   "headlines":[  
+      {
+         "label":"CDC face mask guidelines",
+         "link":"https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html",
+         "date":"4/4/20"
+      },
       {
          "label":"CDC considering advising everyone to wear a mask",
          "link":"https://thehill.com/changing-america/well-being/prevention-cures/490579-surgeon-general-asks-cdc-to-review-guidance-on",
