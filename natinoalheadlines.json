@@ -1,6 +1,11 @@
 {
    "headlines":[  
       {
+         "label":"CDC COVID-19 planning guidance",
+         "link":"https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/get-your-household-ready-for-COVID-19.html",
+         "date":"4/5/20"
+      },
+      {
          "label":"CDC face mask guidelines",
          "link":"https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html",
          "date":"4/4/20"
