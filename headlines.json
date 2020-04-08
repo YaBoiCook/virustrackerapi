@@ -1,6 +1,11 @@
 {
    "headlines":[ 
       {
+         "label":"Chicago imposes curfew on liquor sales",
+         "link":"https://chicago.suntimes.com/2020/4/8/21213778/coronavirus-curfew-liquor-sales",
+         "date":"4/8/20"
+      },
+      {
          "label":"See inside the COVID hospital being built at McCormick Place",
          "link":"https://www.chicagobusiness.com/health-care/see-inside-covid-hospital-being-built-mccormick-place",
          "date":"4/6/20"
