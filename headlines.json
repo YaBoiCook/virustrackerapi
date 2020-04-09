@@ -1,5 +1,10 @@
 {
-   "headlines":[ 
+   "headlines":[
+      {
+         "label":"CTA Bus and other public transit changes",
+         "link":"https://chicago.curbed.com/2020/4/9/21215123/coronavirus-chicago-cta-metra-divvy-transportation",
+         "date":"4/9/20"
+      },
       {
          "label":"Chicago imposes curfew on liquor sales",
          "link":"https://chicago.suntimes.com/2020/4/8/21213778/coronavirus-curfew-liquor-sales",
