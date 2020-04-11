@@ -1,5 +1,10 @@
 {
-   "headlines":[  
+   "headlines":[
+      {
+         "label":"US overtakes Italy as country with most deaths",
+         "link":"https://www.theguardian.com/world/2020/apr/11/us-coronavirus-death-toll",
+         "date":"4/11/20"
+      },
       {
          "label":"US death toll surpasses 10,000, Surgeon General warns of tough week ahead",
          "link":"https://www.washingtonpost.com/world/2020/04/06/coronavirus-latest-news/",
