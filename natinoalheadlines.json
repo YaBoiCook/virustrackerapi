@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"70 Vaccines in developement globally says WHO",
+         "link":"https://www.bloomberg.com/news/articles/2020-04-13/who-says-70-vaccines-in-the-works-with-three-leading-candidates",
+         "date":"4/13/20"
+      },
+      {
          "label":"US overtakes Italy as country with most deaths",
          "link":"https://www.theguardian.com/world/2020/apr/11/us-coronavirus-death-toll",
          "date":"4/11/20"
