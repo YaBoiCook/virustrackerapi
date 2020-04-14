@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"California Governer unveils plan to lift stay-at-home order, no timeline given",
+         "link":"https://ktla.com/news/coronavirus/gov-newsom-to-reveal-details-of-plan-to-lift-californias-stay-at-home-order/",
+         "date":"4/14/20"
+      },
+      {
          "label":"LA extends safer-at-home order through May 15th",
          "link":"https://ktla.com/news/local-news/l-a-county-officials-to-provide-coronavirus-update/",
          "date":"4/11/20"
