@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"White House halts funding to WHO",
+         "link":"https://www.cnn.com/2020/04/14/politics/donald-trump-world-health-organization-funding-coronavirus/index.html",
+         "date":"4/14/20"
+      },
+      {
          "label":"Latest research on asymptomatic carriers",
          "link":"https://www.businessinsider.com/coronavirus-carriers-transmit-without-symptoms-what-to-know-2020-4",
          "date":"4/14/20"
