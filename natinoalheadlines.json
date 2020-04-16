@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"U.S. jobless claims top 20 million",
+         "link":"https://www.wsj.com/articles/u-s-unemployment-claims-likely-continued-at-record-levels-11587029401",
+         "date":"4/16/20"
+      },
+      {
          "label":"White House halts funding to WHO",
          "link":"https://www.cnn.com/2020/04/14/politics/donald-trump-world-health-organization-funding-coronavirus/index.html",
          "date":"4/14/20"
