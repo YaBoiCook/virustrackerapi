@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"More than 100,000 Americans have recovered from coronavirus",
+         "link":"https://www.newsweek.com/coronavirus-recoveries-more-100000-united-states-cases-1500379",
+         "date":"4/27/20"
+      },
+      {
          "label":"Autopsies find first US coronavirus death occurred in early February",
          "link":"https://www.washingtonpost.com/nation/2020/04/22/death-coronavirus-first-california/",
          "date":"4/22/20"
