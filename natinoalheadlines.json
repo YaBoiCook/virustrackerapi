@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"CDC adds 6 symptoms to its COVID-19 list",
+         "link":"https://www.wbez.org/stories/cdc-adds-6-symptoms-to-its-covid-19-list/58fb22ee-cf8d-4222-9e94-4f7cf33bd129",
+         "date":"4/27/20"
+      },
+      {
          "label":"More than 100,000 Americans have recovered from coronavirus",
          "link":"https://www.newsweek.com/coronavirus-recoveries-more-100000-united-states-cases-1500379",
          "date":"4/27/20"
