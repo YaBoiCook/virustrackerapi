@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"LA offering free coronavirus testing to all residents",
+         "link":"https://www.npr.org/sections/coronavirus-live-updates/2020/04/30/848144570/los-angeles-city-and-county-offer-free-coronavirus-testing-to-all-residents",
+         "date":"4/30/20"
+      },
+      {
          "label":"California governor outlines state's phased reopening plan",
          "link":"https://www.cnn.com/2020/04/28/politics/california-phased-reopening-plan/index.html",
          "date":"4/29/20"
