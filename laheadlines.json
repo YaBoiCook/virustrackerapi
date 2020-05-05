@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"California will begin easing coronavirus closures this Friday",
+         "link":"https://www.npr.org/sections/coronavirus-live-updates/2020/05/04/850241273/gov-newsom-announces-california-will-begin-easing-coronavirus-closures-this-week",
+         "date":"5/5/20"
+      },
+      {
          "label":"LA offering free coronavirus testing to all residents",
          "link":"https://www.npr.org/sections/coronavirus-live-updates/2020/04/30/848144570/los-angeles-city-and-county-offer-free-coronavirus-testing-to-all-residents",
          "date":"4/30/20"
