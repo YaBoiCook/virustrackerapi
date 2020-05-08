@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"California will have vote-by-mail ballot for November election",
+         "link":"https://losangeles.cbslocal.com/2020/05/08/newsom-covid-coronavirus-california-mail-in-ballot-election/",
+         "date":"5/8/20"
+      },
+      {
          "label":"California will begin easing coronavirus closures this Friday",
          "link":"https://www.npr.org/sections/coronavirus-live-updates/2020/05/04/850241273/gov-newsom-announces-california-will-begin-easing-coronavirus-closures-this-week",
          "date":"5/5/20"
