@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"One-third of all U.S. COVID-19 deaths are nursing home residents or workers",
+         "link":"https://www.nytimes.com/interactive/2020/05/09/us/coronavirus-cases-nursing-homes-us.html",
+         "date":"5/11/20"
+      },
+      {
          "label":"Amtrak to require passengers wear masks starting 5/11",
          "link":"https://thehill.com/policy/transportation/496780-amtrak-to-require-passengers-wear-masks-starting-monday",
          "date":"5/8/20"
