@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"Lockdown protests may have spread virus widely, cellphone data suggests",
+         "link":"https://www.theguardian.com/us-news/2020/may/18/lockdown-protests-spread-coronavirus-cellphone-data",
+         "date":"5/18/20"
+      },
+      {
          "label":"One-third of all U.S. COVID-19 deaths are nursing home residents or workers",
          "link":"https://www.nytimes.com/interactive/2020/05/09/us/coronavirus-cases-nursing-homes-us.html",
          "date":"5/11/20"
