@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"Coronavirus vaccine trial shows promising early results",
+         "link":"https://www.nytimes.com/2020/05/18/health/coronavirus-vaccine-moderna.html",
+         "date":"5/18/20"
+      },
+      {
          "label":"Lockdown protests may have spread virus widely, cellphone data suggests",
          "link":"https://www.theguardian.com/us-news/2020/may/18/lockdown-protests-spread-coronavirus-cellphone-data",
          "date":"5/18/20"
