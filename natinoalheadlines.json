@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"CDC releases previously shelved guidance on reopening America",
+         "link":"https://www.cnn.com/2020/05/19/politics/cdc-guidance-on-reopening/index.html",
+         "date":"5/20/20"
+      },
+      {
          "label":"Coronavirus vaccine trial shows promising early results",
          "link":"https://www.nytimes.com/2020/05/18/health/coronavirus-vaccine-moderna.html",
          "date":"5/18/20"
