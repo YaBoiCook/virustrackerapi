@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"Chicago's phase III reopening guidelines",
+         "link":"https://www.chicago.gov/city/en/sites/covid-19/home/reopening-business-portal.html",
+         "date":"5/26/20"
+      },
+      {
          "label":"What’s open in your region of Illinois’ coronavirus plan?",
          "link":"https://www.chicagoreporter.com/whats-open-in-your-region-of-illinois-coronavirus-plan/",
          "date":"5/21/20"
