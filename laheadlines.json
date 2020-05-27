@@ -1,6 +1,11 @@
 {
    "headlines":[
       {
+         "label":"LA's plan to reopen schools",
+         "link":"https://losangeles.cbslocal.com/2020/05/27/la-county-schools-reopen-plan-students-face-mask-covid/",
+         "date":"5/27/20"
+      },
+      {
          "label":"Face masks now required of all Angelenos when outside",
          "link":"https://abc7.com/coronavirus-covid-19-face-masks-coverings/6180883/",
          "date":"5/14/20"
