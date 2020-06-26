@@ -1,1 +1,1 @@
-John Hopkins COVID-19 data is reporting a large number of new cases in the US. This data may not be correct or could be a backlog of reported cases. I will investigate the discrepancy when the numbers have settled.
+
